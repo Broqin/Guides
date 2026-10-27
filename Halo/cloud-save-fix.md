@@ -55,4 +55,4 @@ Use this guide if your settings in Halo: The Master Chief Collection don't persi
 2. Close the game fully, then launch it again.
 3. Check that your settings are still applied.
 
-If they persisted, you're done. If not, [add what to try next, e.g. where to ask for help].
+If they persisted, you're done.
